@@ -1,5 +1,8 @@
 # Welcome to the SIGNAL LAB @Northwestern University
 
+
+<h2>Scientific InteGration of Numerical Analysis and Learning Lab</h2>
+
 <p style="text-align:justify">
 We are a research group at the Department of Industrial Engineering and Management Sciences, Northwestern University. We aim to build the foundation of the new generation of AI powered research paradigm that integrates scientific and engineering knowledge into Machine learning and Generative AI.
 </p>
