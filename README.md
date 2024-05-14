@@ -1,5 +1,6 @@
 # SIGNAL Lab Website
 
+Revised from [link](https://github.com/csl-cqu/csl-cqu.github.io)
 
 ### Add Publication
 ```yaml
