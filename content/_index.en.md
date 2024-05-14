@@ -1,17 +1,17 @@
-# Welcome to the Cyber Security Laboratory
+# Welcome to the SIGNAL LAB @Northwestern University
 
 <p style="text-align:justify">
-We are a research group at the College of Computer Science, Chongqing University, China. We aim to explore and solve potential security problems in the field of artificial intelligence and computer science with the rapid development of computer technology in the new environment of the 21st century.
+We are a research group at the Department of Industrial Engineering and Management Sciences, Northwestern University. We aim to build the foundation of the new generation of AI powered research paradigm that integrates scientific and engineering knowledge into Machine learning and Generative AI.
 </p>
 
 {{< slide >}}
 
 <p style="text-align:justify">
-Our team tries to ensure the security and privacy of various computer systems and also explore the new security and privacy research directions of big data, machine learning, networks and hardware. We hope to be able to put forward new theory and promote the development in the computer field. We also hope our works can be applied to solve the information security problems in several areas of life, which, in turn, promotes the development and progress of the society.
+Our team working on an interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem, and operations research.
 </p>
 
 <p style="text-align:justify">
-We are at Chongqing University that is a national university in the Shapingba district of Chongqing, China. It is a member of the Project 211 and Project 985 which aims to transform Chinese universities into better research institutions.
+We are at Northwestern Univesrity, which is a private research university in Evanston, Illinois, United States. Established in 1851 to serve the historic Northwest Territory, it is the oldest chartered university in Illinois
 </p>
 
 # News
