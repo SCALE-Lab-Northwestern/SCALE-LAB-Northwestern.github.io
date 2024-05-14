@@ -19,23 +19,23 @@
   position: Alumni
 
 
-- name: Kaizhao Liu
-  interests: Machine Learning Theory
+- name: Kaizhao Liu 
+  interests: Machine Learning Theory (PKU)
   position: Master
 
 
-- name: Siyuan Tang
-  interests: Direct Preference Optimization (co-supervised with Minshuo Chen)
+- name: Siyuan Tang 
+  interests: Direct Preference Optimization (co-supervised with Minshuo Chen) (USTC)
   position: Master
 
-- name: Honam Wong
-  interests: Machine Learning Theory
+- name: Honam Wong 
+  interests: Machine Learning Theory (HKUST)
   position: Master
 
-- name: Zexi Fan
-  interests: Scientific Machine Learning, Stochasatic Control
+- name: Zexi Fan 
+  interests: Scientific Machine Learning, Stochasatic Control (PKU)
   position: Master
 
-- name: Ruihan Xu
-  interests: Machine Learning Theory, Applied Math
+- name: Ruihan Xu 
+  interests: Machine Learning Theory, Applied Math (SJTU)
   position: Master
