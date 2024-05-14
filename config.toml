@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Cyber Security Laboratory @ CQU'
+    title = 'SIGNAL Laboratory @ NWU'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -77,13 +77,13 @@ theme = 'LoveIt'
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of Cyber Security Laboratory @ CQU"
+      description = "The website of SIGNAL Lab @NWU"
       # site keywords
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
+      keywords = ["Scientific Machine Learning", "NWU", "AI","Machine Learning"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "CSL@CQU"
+        title = "SGINAL Lab"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -98,99 +98,7 @@ theme = 'LoveIt'
       [languages.en.params.search]
         enable = false
 
-  [languages.zh-cn]
-    weight = 2
-    languageCode = "zh-CN"
-    languageName = "简体中文"
-    hasCJKLanguage = true
-    title = '重庆大学网络安全实验室'
-    paginate = 12
-    [languages.zh-cn.menu]
-      [[languages.zh-cn.menu.main]]
-        identifier = "home"
-        pre = ""
-        post = ""
-        name = "首页"
-        url = "/"
-        title = ""
-        weight = 1
-      [[languages.zh-cn.menu.main]]
-        identifier = "news"
-        pre = ""
-        post = ""
-        name = "新闻"
-        url = "/news/"
-        title = ""
-        weight = 2
-      [[languages.zh-cn.menu.main]]
-        identifier = "team"
-        pre = ""
-        post = ""
-        name = "研究团队"
-        url = "/team/"
-        title = ""
-        weight = 3
-      [[languages.zh-cn.menu.main]]
-        identifier = "research"
-        pre = ""
-        post = ""
-        name = "研究方向"
-        url = "/research/"
-        title = ""
-        weight = 4
-      [[languages.zh-cn.menu.main]]
-        identifier = "publications"
-        pre = ""
-        post = ""
-        name = "学术论文"
-        url = "/publications/"
-        title = ""
-        weight = 5
-      [[languages.zh-cn.menu.main]]
-        identifier = "seminars"
-        pre = ""
-        name = "学术沙龙"
-        url = "/seminars/"
-        title = ""
-        weight = 6
-      [[languages.zh-cn.menu.main]]
-        identifier = "contact"
-        pre = ""
-        post = ""
-        name = "联系我们"
-        url = "/contact/"
-        title = ""
-        weight = 7
-      [[languages.zh-cn.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/csl-cqu"
-        title = "GitHub"
-        weight = 8
-    [languages.zh-cn.params]
-      # 网站描述
-      description = "重庆大学网络安全实验室官网"
-      # 网站关键词
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
-      # 应用图标配置
-      [languages.zh-cn.params.app]
-        # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "CSL@CQU"
-        # 是否隐藏网站图标资源链接
-        noFavicon = false
-        # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
-        svgFavicon = "/favicon.svg"
-        # Android 浏览器主题色
-        themeColor = "#ffffff"
-        # Safari 图标颜色
-        iconColor = "#5bbad5"
-        # Windows v8-10 磁贴颜色
-        tileColor = "#da532c"
-      # 搜索配置
-      [languages.zh-cn.params.search]
-        enable = false
+  
 
 [params]
   # LoveIt theme version
@@ -223,7 +131,7 @@ theme = 'LoveIt'
       logo = ""
       # title name
       # 标题名称
-      name = "Cyber Security Laboratory @ CQU"
+      name = "SIGNAL Lab@ NU"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -252,9 +160,8 @@ theme = 'LoveIt'
     author = true
     # site creation time
     # 网站创立年份
-    since = 2022
+    since = 2024
     # ICP info only in China (HTML format is supported)
-    # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
@@ -461,7 +368,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "Cyber Security Laboratory, Chongqing University."
+  name = "SIGNAL Lab, Northwestern University."
 
 
 # Options to make output .md files
