@@ -1,7 +1,7 @@
 # Research
 
 
-Our team are committed to research lies in the interface of machine learning/non-parametric statistics, applied probability and numerical computation, with a primary focus on the algorithmic and theoretical foundations for more “modern” settings such as `Deep Learnig`, `Generative AI` and `AI4Science`.
+At SIGNAL group, we have a diverse and continuously expanding scope of research interests spanning the theoretical and algorithm development aspects of  the new generation of AI powered research paradigm that integrates scientific and engineering knowledge into Machine learning and Generative AI. Our team is dedicated to research at the intersection of machine learning, non-parametric statistics, applied probability, and numerical analysis. Our primary focus lies in developing algorithmic and theoretical foundations for modern domains such as `Deep Learning`, `Generative AI`, and `AI4Science`.
 
 ![Research](./framework.png)
 
