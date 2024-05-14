@@ -33,9 +33,7 @@
         {{ if eq .position "Ph.D." }}
         <tr>
            {{ if .cv }}
-            <a href="{{ .cv }}">
-                <td>{{.name}}</td>
-            </a>
+                <td> <a href="{{ .cv }}">{{.name}} </a></td>
             {{ else }}
             <td>{{.name}}</td>
             {{ end }}
@@ -56,9 +54,7 @@
         {{ if eq .position "Master" }}
         <tr>
              {{ if .cv }}
-            <a href="{{ .cv }}">
-                <td>{{.name}}</td>
-            </a>
+            <td> <a href="{{ .cv }}">{{.name}} </a></td>
             {{ else }}
             <td>{{.name}}</td>
             {{ end }}
@@ -78,9 +74,7 @@
         {{ if eq .position "Alumni" }}
         <tr>
             {{ if .cv }}
-            <a href="{{ .cv }}">
-                <td>{{.name}}</td>
-            </a>
+           <td> <a href="{{ .cv }}">{{.name}} </a></td>
             {{ else }}
             <td>{{.name}}</td>
             {{ end }}
