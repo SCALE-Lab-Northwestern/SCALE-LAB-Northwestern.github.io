@@ -55,6 +55,22 @@
         {{ end }}
         {{ end }}
     </table>
+
+     <h3 id="master" style="margin-bottom: 0px;">Alumni</h3>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Next Position</th>
+        </tr>
+        {{ range .Site.Data.team_en }}
+        {{ if eq .position "Alumni" }}
+        <tr>
+            <td>{{.name}}</td>
+            <td>{{.interests}}</td>
+        </tr>
+        {{ end }}
+        {{ end }}
+    </table>
 </div>
 
 <style>
