@@ -6,6 +6,6 @@ lightgallery: true
 ---
 
 ## Location
-Room 1502, Master Teaching Building
+2145 Sheridan Rd, Evanston, IL 60208
 
 ![Contact](./map.jpg)
