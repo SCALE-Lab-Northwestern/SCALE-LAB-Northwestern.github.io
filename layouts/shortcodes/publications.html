@@ -17,3 +17,22 @@
             </li>
         {{ end }}
     </ul>
+    <h2 id="2024">Early Years</h2>
+    <ul>
+        {{ range .Site.Data.publications.in2023 }}
+            <li>
+                <p><b><a href="{{ .link }}">{{ .title }}
+                    {{ if .highlight }}
+                    <span style="color: red;">
+                        ({{ .highlight }})
+                    </span>
+                    {{ end }}
+                </a></b></p>
+                <p>{{.authors}}</p>
+                <p><i>{{.publication}}</i>
+                </p>
+            </li>
+        {{ end }}
+    </ul>
+
+</div>
