@@ -1,7 +1,7 @@
 <div>
-    <h2 id="director">Director</h2>
+    <h2 id="director">Principal Investigator</h2>
     {{ range .Site.Data.team_en }}
-    {{ if eq .position "director" }}
+    {{ if eq .position "PI" }}
         <div class="team-member">
             <div class="team-member-photo">
                 <img src="/team/{{ .photo }}">
@@ -13,23 +13,6 @@
             {{ else }}
             <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
             {{ end }}
-            <p>
-                <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
-                <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
-            </p>
-            <p style="text-align:justify"><i class="fas fa-info-circle fa-fw"></i>&nbsp;{{ .biography }}</p>
-        </div>
-    {{ end }}
-    {{ end }}
-
-    <h2 id="member">Member</h2>
-    {{ range .Site.Data.team_en }}
-    {{ if eq .position "member" }}
-        <div class="team-member">
-            <div class="team-member-photo">
-                <img src="/team/{{ .photo }}">
-            </div>
-            <h3 style="margin-bottom: 0px;">{{ .name }}</h3>
             <p>
                 <i class="fas fa-user fa-fw"></i>&nbsp;{{ .info }}<br>
                 <i class="fas fa-envelope fa-fw"></i>&nbsp;{{.email}}<br>
