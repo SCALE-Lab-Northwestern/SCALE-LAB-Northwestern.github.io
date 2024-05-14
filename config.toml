@@ -1,4 +1,4 @@
-baseURL = 'https://csl-cqu.github.io/'
+baseURL = 'https://signal-lab-northwestern.github.io/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
@@ -68,12 +68,12 @@ theme = 'LoveIt'
         title = ""
         weight = 7
       [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
+        identifier = "teaching"
+        pre = ""
         post = ""
-        name = ""
-        url = "https://github.com/csl-cqu"
-        title = "GitHub"
+        name = "Teaching"
+        url = "/teaching/"
+        title = ""
         weight = 8
     [languages.en.params]
       # site description
