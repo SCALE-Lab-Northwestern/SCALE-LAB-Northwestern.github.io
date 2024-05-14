@@ -32,6 +32,11 @@
         {{ range .Site.Data.team_en }}
         {{ if eq .position "Ph.D." }}
         <tr>
+           {{ if .cv }}
+            <a href="{{ .cv }}">
+                <td>{{.name}}</td>
+            </a>
+            {{ else }}
             <td>{{.name}}</td>
             <td>{{.interests}}</td>
         </tr>
@@ -49,7 +54,13 @@
         {{ range .Site.Data.team_en }}
         {{ if eq .position "Master" }}
         <tr>
+             {{ if .cv }}
+            <a href="{{ .cv }}">
+                <td>{{.name}}</td>
+            </a>
+            {{ else }}
             <td>{{.name}}</td>
+            {{ end }}
             <td>{{.interests}}</td>
         </tr>
         {{ end }}
