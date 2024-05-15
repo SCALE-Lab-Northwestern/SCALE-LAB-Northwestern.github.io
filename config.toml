@@ -60,19 +60,19 @@ theme = 'LoveIt'
         title = ""
         weight = 6
       [[languages.en.menu.main]]
-        identifier = "contact"
-        pre = ""
-        post = ""
-        name = "Contact"
-        url = "/contact/"
-        title = ""
-        weight = 7
-      [[languages.en.menu.main]]
         identifier = "teaching"
         pre = ""
         post = ""
         name = "Teaching"
         url = "/teaching/"
+        title = ""
+        weight = 7
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        pre = ""
+        post = ""
+        name = "Contact"
+        url = "/contact/"
         title = ""
         weight = 8
     [languages.en.params]
