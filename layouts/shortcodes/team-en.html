@@ -69,6 +69,7 @@
         <tr>
             <th>Name</th>
             <th>Interests</th>
+            <th>Achievement</th>
         </tr>
         {{ range .Site.Data.team_en }}
         {{ if eq .position "Master" }}
@@ -79,6 +80,11 @@
             <td>{{.name}}</td>
             {{ end }}
             <td>{{.interests}}</td>
+             {{ if .achieve }}
+            <td>{{.achieve}}</td>
+            {{ else }}
+            <td></td>
+            {{ end }}
         </tr>
         {{ end }}
         {{ end }}
@@ -102,6 +108,8 @@
             <td>{{.interests}}</td>
             {{ if .achieve }}
             <td>{{.achieve}}</td>
+            {{ else }}
+            <td></td>
             {{ end }}
         </tr>
        
