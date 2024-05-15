@@ -40,44 +40,44 @@ It is worth noting that if you need to add a year, you need to create the public
 ```
 
 ### Add Team Member
-在data目录中team_en.yaml以及team_zh.yaml添加个人信息即可，格式如下：
+add to data/team_en.yaml, see the following form：
 ```yaml
-- name: 名字
-  photo: 照片
-  info: 职称
-  email: 邮箱
-  biography: 个人简介
-  position: 身份，可选director、member、phd、master
-  interests: 研究兴趣，只有phd和master需要
+- name: 
+  photo: 
+  info: 
+  email:
+  biography:
+  position: member、phd、master
+  interests: 
 ```
-其中照片文件应该放置在static/team目录中。
+photo is saved in static/team
+
+p.s. master means master+undergrad. member means visiting student
 
 ### Add news
-在data目录中news_en.yaml以及news_zh.yaml中添加新闻即可，格式如下：
+add to data/news_en.yaml，from：
 ```yaml
-- title: 新闻标题（支持在其中使用html标签）
-  date: 发布日期
-  icon: 一个Emoji图标（可选）
-  author: 作者
-  detail: 详情（可选，支持在其中使用html标签）
+- title: 
+  date:
+  icon:one Emoji图标
+  author: 
+  detail: use html
 ```
 
-**注意**：每次添加新闻总应该添加在数据文件的最上方
+**Notice**：new news should be added to the top
 
-### Add seminae
-在content/seminars中创建一个新的文件夹，然后在其中添加index.en.md和index.zh-cn.md（可以只添加一个语言版本）具体格式参考content/seminars/basic-markdown-syntax。
+### Add seminar
+creat a new folder in content/seminars，then adde index.en.md to the folder. examples see content/seminars/basic-markdown-syntax。
 
-### 维护首页
-#### 修改文字内容
-直接编辑content/_index.en.md和content/_index.zh-cn.md文件即可。
+### Others
+#### Home page
+edit content/_index.en.md
 
-#### 修改轮播图
-首先将需要的图片放置在static/slide目录中，然后编辑data/slide.yaml指定想要轮播展示的图片的文件名，这里图片的个数不受限制。
 
-#### 修改Quick Links
-编辑data目录中quick_link_en.yaml和quick_link_zh.yaml即可，格式如下：
+#### Quick Links
+data/quick_link_en.yaml
 ```yaml
-- title: 超链接文本
-  link: 链接地址
+- title: 
+  link: 
 ```
 
