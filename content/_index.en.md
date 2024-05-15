@@ -8,6 +8,12 @@
 .half_highlight {
 background: linear-gradient(to top, gold 50%, transparent 50%);
 }
+
+#boxshadow2 {
+    border: 4px solid IndianRed;
+    box-shadow: 5px 6px gray;
+    border-radius: 2mm;
+}
 </style>
 
 # Welcome to SCALE LAB @Northwestern
@@ -28,6 +34,16 @@ We are a research group led by Prof. <a href="https://2prime.github.io/">Yiping 
 <br /> 
 
 {{< slide >}}
+
+<div id="boxshadow2">
+<center style="color: gray; font-size: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+We always actively seeking talents to join us, we have opening to all levels.
+ </center>
+ <center style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+ Detail see <a href="https://2prime.github.io/files/SummerIntern_Yiping.pdf">here</a>
+ </center>
+</div>
+<br/>
 
 <p style="text-align:justify">
 Our team working on an interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem, and operations research.
