@@ -4,7 +4,7 @@
 <h2>Scientific InteGration of Numerical Analysis and Learning Lab</h2>
 
 <p style="text-align:justify">
-We are a research group led by Prof. [Yiping Lu](https://2prime.github.io/) at Northwestern University. We aim to build the foundation of the new generation of AI powered research paradigm that integrates scientific and engineering knowledge into Machine learning and Generative AI.
+We are a research group led by Prof. <a href="https://2prime.github.io/">Yiping Lu</a> at Northwestern University. We aim to build the foundation of the new generation of AI powered research paradigm that integrates scientific and engineering knowledge into Machine learning and Generative AI.
 </p>
 
 {{< slide >}}
