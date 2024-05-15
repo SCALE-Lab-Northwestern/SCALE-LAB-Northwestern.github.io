@@ -1,4 +1,4 @@
-# Welcome to the SCALE LAB @Northwestern University
+# Welcome to SCALE LAB @Northwestern
 
 
 <h2>Scientific Computing and Learning Lab</h2>
