@@ -37,7 +37,7 @@ We are a research group led by Prof. <a href="https://2prime.github.io/">Yiping 
 
 <div id="boxshadow2">
 <center style="color: gray; font-size: 24px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-We always actively seeking talents to join us, we have opening to all levels.
+We always actively seeking like-minded talents to join us. We have opening to all levels.
  </center>
  <center style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
  Detail see <a href="https://2prime.github.io/files/SummerIntern_Yiping.pdf">here</a>
