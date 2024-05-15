@@ -17,6 +17,10 @@ At SIGNAL group, we have a diverse and continuously expanding scope of research 
 
 How large the sample size and how much computational power are needed to reach a prescribed performance level for a physic problem?
 
+<div style="text-align: right;">
+<a href="/posts/scalinglaw/">Read more <i class="fas fa-angle-double-right fa-fw"></i></a>
+</div>
+
 ## Encoding Physics Information into a Model
 
 ## Robust Machine Learning
