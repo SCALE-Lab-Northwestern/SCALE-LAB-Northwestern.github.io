@@ -14,7 +14,7 @@ Our team working on an interdisciplinary research approach across probability an
 </p>
 
 <p style="text-align:justify">
-We are at Northwestern Univesrity, which is a private research university in Evanston, Illinois, United States. Established in 1851 to serve the historic Northwest Territory, it is the oldest chartered university in Illinois
+We are at Northwestern Univesrity is one of the most prestigious private research universities in the US. Established in 1851 to serve the historic Northwest Territory, it is the oldest chartered university in Illinois. Northwestern ranked #9 in the all National Universities and ranked #24 globally by U.S. News & World Report.
 </p>
 
 # News
