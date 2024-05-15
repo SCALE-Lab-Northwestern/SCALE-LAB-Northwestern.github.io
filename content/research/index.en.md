@@ -15,11 +15,15 @@ At SIGNAL group, we have a diverse and continuously expanding scope of research 
 
 ## Scaling Law of Scientific Machine Learning
 
-How large the sample size and how much computational power are needed to reach a prescribed performance level for a physic problem? In machine learning, a neural scaling law is a scaling law relating parameters of a family of neural networks. We are interested in how physics will affect the scaling law.
+How large the sample size and how much computational power are needed to reach a prescribed performance level for a physic problem? In machine learning, a neural scaling law (one of the secrete makes language model works) is a scaling law relating parameters of a family of neural networks. We are interested in how physics will affect the scaling law.
 
 <div style="text-align: right;">
 <a href="/posts/scalinglaw/">Read more <i class="fas fa-angle-double-right fa-fw"></i></a>
 </div>
+
+## Foundation of Machine Learning
+
+Machine learning has achieved great success in many applications such as image recognition and language models. However, the reason why machine learning is so powerful remains elusive. One of the secrete behind this is machine learning provides powerful function/functional approximator in high dimension. Our group aims to understand the mysterious of machine learning using `functional analysis`, `high-dimensional statistics` and `high-dimensional probability`.
 
 ## Encoding Physics Information into a Model
 
