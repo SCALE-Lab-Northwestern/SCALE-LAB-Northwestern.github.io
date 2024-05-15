@@ -1,3 +1,15 @@
+<style>
+#boxshadow {
+    border: 4px solid purple;
+    box-shadow: 5px 6px gray;
+    border-radius: 2mm;
+}
+
+.half_highlight {
+background: linear-gradient(to top, gold 50%, transparent 50%);
+}
+</style>
+
 # Welcome to SCALE LAB @Northwestern
 
 
@@ -6,6 +18,12 @@
 <p style="text-align:justify">
 We are a research group led by Prof. <a href="https://2prime.github.io/">Yiping Lu</a> at Northwestern University. We aim to build the foundation of the new generation of AI powered research paradigm that integrates scientific and engineering knowledge into Machine learning and Generative AI.
 </p>
+
+<div id="boxshadow">
+<center>
+ <strong class="half_highlight" style="color: gray; font-size: 30px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"> We believe in Scaling Law and Scientific Use of AI!</strong>
+ </center>
+</div>
 
 {{< slide >}}
 
