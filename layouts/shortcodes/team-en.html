@@ -81,7 +81,11 @@
             {{ end }}
             <td>{{.interests}}</td>
              {{ if .achieve }}
-            <td>{{.achieve}}</td>
+                {{ if .achievelink }}
+                <td><a href="{{ .achievelink }}">{{.achieve}}</a></td>
+                {{ else }}
+                <td>{{.achieve}}</td>
+                {{ end }}
             {{ else }}
             <td></td>
             {{ end }}
@@ -107,7 +111,11 @@
             {{ end }}
             <td>{{.interests}}</td>
             {{ if .achieve }}
-            <td>{{.achieve}}</td>
+                {{ if .achievelink }}
+                <td><a href="{{ .achievelink }}">{{.achieve}}</a></td>
+                {{ else }}
+                <td>{{.achieve}}</td>
+                {{ end }}
             {{ else }}
             <td></td>
             {{ end }}
