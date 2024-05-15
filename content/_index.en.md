@@ -7,7 +7,7 @@
 }
 
 .half_highlight {
-background: linear-gradient(to top, gold 50%, transparent 50%);
+background: linear-gradient(to top, #F9E79F  50%, transparent 50%);
 }
 
 #boxshadow2 {
