@@ -25,6 +25,8 @@ We are a research group led by Prof. <a href="https://2prime.github.io/">Yiping 
  </center>
 </div>
 
+<br /> 
+
 {{< slide >}}
 
 <p style="text-align:justify">
