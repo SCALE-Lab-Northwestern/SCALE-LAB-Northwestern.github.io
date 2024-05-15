@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/runner/work/SIGNAL-LAB-Northwestern.github.io/SIGNAL-LAB-Northwestern.github.io",
+	"sourceRoot": "/home/runner/work/SCALE-LAB-Northwestern.github.io/SCALE-LAB-Northwestern.github.io",
 	"sources": [
 		"themes/LoveIt/assets/css/style.scss",
 		"themes/LoveIt/assets/css/_variables.scss",
