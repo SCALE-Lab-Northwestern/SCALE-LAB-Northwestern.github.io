@@ -1,7 +1,7 @@
 # Teaching
 
 
-Course Offered by SIGNAL LAB
+Course Offered by SCALE LAB
 
 ## IEMS-304 Statistical Learning for Data Analysis 
 
