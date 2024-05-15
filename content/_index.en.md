@@ -3,6 +3,7 @@
     border: 4px solid purple;
     box-shadow: 5px 6px gray;
     border-radius: 2mm;
+    background-color: white;
 }
 
 .half_highlight {
@@ -13,6 +14,7 @@ background: linear-gradient(to top, gold 50%, transparent 50%);
     border: 4px solid IndianRed;
     box-shadow: 5px 6px gray;
     border-radius: 2mm;
+    background-color: white;
 }
 </style>
 
