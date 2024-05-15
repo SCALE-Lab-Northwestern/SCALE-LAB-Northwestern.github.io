@@ -1,3 +1,31 @@
+<style type="text/css">
+table.dataintable {
+  margin-top:15px;
+  border-collapse:collapse;
+  border:1px solid #aaa;
+  width:100%;
+}
+table.dataintable th {
+  vertical-align:baseline;
+  padding:5px 15px 5px 6px;
+  background-color:#3F3F3F;
+  border:1px solid #3F3F3F;
+  text-align:left;
+  color:#fff;
+}
+table.dataintable td {
+  vertical-align:text-top;
+  padding:6px 15px 6px 6px;
+  border:1px solid #aaa;
+}
+table.dataintable tr:nth-child(odd) {
+  background-color:#F5F5F5;
+}
+table.dataintable tr:nth-child(even) {
+  background-color:#fff;
+}
+</style>
+
 <div>
     <h2 id="director">Principal Investigator</h2>
     {{ range .Site.Data.team_en }}
@@ -24,7 +52,7 @@
 
     <h2 id="student">Student</h2>
     <h3 id="phd" style="margin-bottom: 0px;">Ph.D.</h3>
-    <table>
+    <table class="dataintable">
         <tr>
             <th>Name</th>
             <th>Interests</th>
@@ -44,7 +72,7 @@
     </table>
 
     <h3 id="phd" style="margin-bottom: 0px;">Visiting Students</h3>
-    <table>
+    <table class="dataintable">
         <tr>
             <th>Name</th>
             <th>Interests</th>
@@ -65,7 +93,7 @@
     
 
     <h3 id="master" style="margin-bottom: 0px;">Master and Undergrads</h3>
-    <table>
+    <table class="dataintable">
         <tr>
             <th>Name</th>
             <th>Interests</th>
@@ -95,7 +123,7 @@
     </table>
 
      <h3 id="master" style="margin-bottom: 0px;">Alumni</h3>
-    <table>
+    <table class="dataintable">
         <tr>
             <th>Name</th>
             <th>Next Position</th>
