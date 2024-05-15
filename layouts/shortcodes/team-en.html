@@ -89,6 +89,7 @@
         <tr>
             <th>Name</th>
             <th>Next Position</th>
+            <th>Achievement</th>
         </tr>
         {{ range .Site.Data.team_en }}
         {{ if eq .position "Alumni" }}
@@ -99,7 +100,12 @@
             <td>{{.name}}</td>
             {{ end }}
             <td>{{.interests}}</td>
+            {{ if .achieve }}
+            <td>{{.achieve}}</td>
+            {{ end }}
         </tr>
+       
+        
         {{ end }}
         {{ end }}
     </table>
