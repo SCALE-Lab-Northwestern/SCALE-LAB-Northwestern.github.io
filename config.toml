@@ -1,4 +1,4 @@
-baseURL = 'https://signal-lab-northwestern.github.io/'
+baseURL = 'https://scale-lab-northwestern.github.io/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'SIGNAL Laboratory @ NWU'
+    title = 'SCALE Laboratory @ NWU'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -77,7 +77,7 @@ theme = 'LoveIt'
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of SIGNAL Lab @NWU"
+      description = "The website of SCALE Lab @NWU"
       # site keywords
       keywords = ["Scientific Machine Learning", "NWU", "AI","Machine Learning"]
       # App icon config
@@ -131,7 +131,7 @@ theme = 'LoveIt'
       logo = ""
       # title name
       # 标题名称
-      name = "SIGNAL Lab@ NU"
+      name = "SCALE Lab@ NU"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -368,7 +368,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "SIGNAL Lab, Northwestern University."
+  name = "SCALE Lab, Northwestern University."
 
 
 # Options to make output .md files
