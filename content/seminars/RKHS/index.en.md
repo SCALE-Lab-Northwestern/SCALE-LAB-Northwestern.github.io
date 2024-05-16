@@ -35,7 +35,7 @@ Note that in all Representer Kernel Banach Space \\( \mathcal{B} \\) on \\( X \\
 with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \Phi(\cdot), v ]\\}.\\)
 {{< /admonition >}}
 
-!(feature.png)
+![Feature Map](./feature.png)
 
 ---
 
