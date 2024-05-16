@@ -61,7 +61,8 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 ## Reproducing Kernel Hilbert Space
 
 If a reproducing kernel Hilbert space is a Hilbert space (we have inner product structure), we call it a reproducing kernel Hilbert space.
-- \\(\left<f,K(x,\cdot)\right>=f(x)\\)
+- \\(\left<f,K(x,\cdot)\right>=f(x)\\), \\(K(x,y)=\left<K(x,\cdot),K(y,\cdot)\right>\\). This means \\(K_x:=K(x,\cdot)\\) is the feature map.
+- Covaraince operator \\(\Sigma:=E_x K_x\otimes K_x\\)
 
 ### Eigendecay and effective rank
 
