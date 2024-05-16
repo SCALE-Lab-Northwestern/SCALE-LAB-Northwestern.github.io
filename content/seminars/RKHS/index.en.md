@@ -45,3 +45,6 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 
 
 ### Eigendecay and effective rank
+
+
+## Characterization of Reproducing Kernel Banach Space using Metric Entropy
