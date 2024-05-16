@@ -1,5 +1,5 @@
 ---
-title: "Seminars"
+title: "Blogs"
 date: 
 draft: false
 lightgallery: true
