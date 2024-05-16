@@ -53,9 +53,9 @@ theme = 'LoveIt'
         title = ""
         weight = 5
       [[languages.en.menu.main]]
-        identifier = "seminars"
+        identifier = "blogs"
         pre = ""
-        name = "Seminars"
+        name = "Blogs"
         url = "/seminars/"
         title = ""
         weight = 6
