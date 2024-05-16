@@ -28,3 +28,8 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 
 #### Neural Networks
 
+## Reproducing Kernel Hilbert Space
+
+
+### Eigendecay and effective rank
+
