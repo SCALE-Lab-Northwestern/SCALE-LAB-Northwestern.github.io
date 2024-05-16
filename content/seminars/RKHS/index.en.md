@@ -41,6 +41,16 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 
 #### Neural Networks
 
+> Bartolucci, Francesca, et al. "Understanding neural networks with reproducing kernel Banach spaces." Applied and Computational Harmonic Analysis.
+> Bartolucci, Francesca, et al. "Neural reproducing kernel Banach spaces and representer theorems for deep networks." arXiv:2403.08750 .
+
+
+#### \\(L_p\\)-Type RKBS
+
+## Representer Theorem 
+
+> Unser, Michael. "A unifying representer theorem for inverse problems and machine learning." Foundations of Computational Mathematics 2021.
+
 ## Reproducing Kernel Hilbert Space
 
 
