@@ -36,6 +36,7 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 {{< /admonition >}}
 
 
+---
 
 ### Examples of RKBS
 
@@ -48,9 +49,14 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 
 #### \\(L_p\\)-Type RKBS
 
+---
+
 ## Representer Theorem 
 
 > Unser, Michael. "A unifying representer theorem for inverse problems and machine learning." Foundations of Computational Mathematics 2021.
+
+
+---
 
 ## Reproducing Kernel Hilbert Space
 
