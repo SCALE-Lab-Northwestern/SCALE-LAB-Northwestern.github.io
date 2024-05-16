@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'SCALE Laboratory @ NWU'
+    title = 'SCALE Laboratory @ Northwestern'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -77,13 +77,13 @@ theme = 'LoveIt'
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of SCALE Lab @NWU"
+      description = "The website of SCALE Lab @ Northwestern "
       # site keywords
-      keywords = ["Scientific Machine Learning", "NWU", "AI","Machine Learning"]
+      keywords = ["Scientific Machine Learning", "Northwestern University", "AI","Machine Learning"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "SGINAL Lab"
+        title = "SCALE Lab"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
