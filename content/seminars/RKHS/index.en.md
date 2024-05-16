@@ -1,7 +1,7 @@
 ---
 weight: 4
-title: "Basic Markdown Syntax"
-date: 2024-05-20T09:40:28+08:00
+title: "Reproducing Kernel Hilbert Space and Reproducing Kernel Banach Space"
+date: 2024-05-02T09:40:28+08:00
 draft: false
 author: "Yiping"
 description: "This article introduce Reproducing Kernel Hilbert Space and Reproducing Kernel Banach Space."
@@ -14,18 +14,26 @@ tags: ["Statistics", "Kernel"]
 lightgallery: true
 ---
 
-# Reproducing Kernel Hilbert Space and Reproducing Kernel Banach Space
+This article introduces Reproducing Kernel Hilbert Space and Reproducing Kernel Banach Space.
 
 ## Reproducing Kernel Banach Space
-A reproducing kernel Banach space \( \BT \) on a prescribed nonempty set \( X \) is a Banach space of certain functions on \( X \) such that every point evaluation functional \( \delta_x \), \( x \in X \) on \( B \) is continuous, that is, there exists a positive constant \( C_x \) such that
+
+{{< admonition Definition >}}
+:(far fa-bookmark fa-fw): A reproducing kernel Banach space \( \BT \) on a prescribed nonempty set \( X \) is a Banach space of certain functions on \( X \) such that every point evaluation functional \( \delta_x \), \( x \in X \) on \( B \) is continuous, that is, there exists a positive constant \( C_x \) such that
 \[ \left| \delta_x(f) \right| = \left| f(x) \right| \leq C_x \| f \|_\BT \text{ for all } f \in B. \]
+{{< /admonition >}}
+
 
 Note that in all Representer Kernel Banach Space \( \mathcal{B} \) on \( X \) norm-convergence implies pointwise convergence, that is, if \( (f_n) \subset \mathcal{B}  \) is a sequence converging to some \( f \in \mathcal{B}  \) in the sense of \( \|f_n - f\|_{\mathcal{B} } \rightarrow 0 \), then \( f_n(x) \rightarrow f(x) \) for all \( x \in X \).
 
 ### Construction of Reproducing Kernel Banach Space
 
-For a Banach space $\WT$, let $ [ \cdot, \cdot ]_\WT:\WT'\times \WT\rightarrow \mathbb{R} $ be its duality pairing. Suppose there exist an nonempty set \( \Omega \) and a corresponding feature mappings $\Phi : \Omega \to \WT',$.  We can  construct a Reproducing Kernel Banach Space as $$\mathcal{B} := \left\{ f_v(x) := [ \Phi(x), v ]_{\WT} : v \in \WT, x \in \Omega \right\}  $$
+{{< admonition Construction Of RKBS >}}
+:(far fa-bookmark fa-fw): For a Banach space $\WT$, let $ [ \cdot, \cdot ]_\WT:\WT'\times \WT\rightarrow \mathbb{R} $ be its duality pairing. Suppose there exist an nonempty set \( \Omega \) and a corresponding feature mappings $\Phi : \Omega \to \WT',$.  We can  construct a Reproducing Kernel Banach Space as $$\mathcal{B} := \left\{ f_v(x) := [ \Phi(x), v ]_{\WT} : v \in \WT, x \in \Omega \right\}  $$
 with norm$\|f_v\|_{\mathcal{B}} := \inf\{\|v\|_{\WT}: v\in W\ \text{ with }\ f=[ \Phi(\cdot), v ]_{\WT}\}.$
+{{< /admonition >}}
+
+
 
 ### Examples of RKBS
 
