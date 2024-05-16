@@ -24,7 +24,7 @@ This article introduces Reproducing Kernel Hilbert Space and Reproducing Kernel 
 {{< /admonition >}}
 
 
-Note that in all Representer Kernel Banach Space \\( \mathcal{B} \\) on \\( X \\) norm-convergence implies pointwise convergence, that is, if \\( (f_n) \subset \mathcal{B}  \\) is a sequence converging to some \\( f \in  \mathcal{B}  \\) in the sense of \\( \|f_n - f\|_{B} \rightarrow 0 \\), then \\( f_n(x) \rightarrow f(x) \\) for all \\( x \in X \\).
+Note that in all Representer Kernel Banach Space \\( \mathcal{B} \\) on \\( X \\) norm-convergence implies pointwise convergence, that is, if \\( (f_n) \subset \mathcal{B}  \\) is a sequence converging to some \\( f \in  \mathcal{B}  \\) in the sense of \\( \|f_n - f\|_\mathcal{B} \rightarrow 0 \\), then \\( f_n(x) \rightarrow f(x) \\) for all \\( x \in X \\).
 
 ### Construction of Reproducing Kernel Banach Space
 
