@@ -106,7 +106,7 @@ theme = 'LoveIt'
   version = "0.2.X"
   # site default theme ("light", "dark", "auto")
   # 网站默认主题 ("light", "dark", "auto")
-  defaultTheme = "auto"
+  defaultTheme = "light"
   # date format
   # 日期格式
   dateFormat = "2006-01-02"
