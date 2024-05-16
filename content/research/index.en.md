@@ -12,7 +12,7 @@ At SIGNAL group, we have a diverse and continuously expanding scope of research 
 
 ![Research](./framework.png)
 
-**Potential Topics:** Large Foundation Models for Science, Computational Complexity for Scientific Computing, Banach Space Geometry, Simulation Free (Diffusion) Models for Science
+**Potential Topics:** Large Foundation Models for Science, Computational Complexity for Scientific Computing, Banach Space Geometry, Simulation Free (Diffusion) Models for Science, Trustworthy Machine Learning and Calibration
 
 ## Scaling Law of Scientific Machine Learning
 
