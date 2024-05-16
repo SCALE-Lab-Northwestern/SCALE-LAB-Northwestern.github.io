@@ -29,7 +29,9 @@ Note that in all Representer Kernel Banach Space \\( B \\) on \\( X \\) norm-con
 ### Construction of Reproducing Kernel Banach Space
 
 {{< admonition note "Construction" >}}
- For a Banach space $W$, let $\[\cdot,\cdot\]$  be its duality pairing which is a bi-linear maps from $W\times W'$ to real number. Suppose there exist an nonempty set \\( X \\) and a corresponding feature mappings $\Phi : X \rightarrow W',$.  We can  construct a Reproducing Kernel Banach Space as $$B := \left\{ f_v(x) :=[\phi(x),v] : v \in W, x \in X \right\} $$
+ For a Banach space $W$, let $\[\cdot,\cdot\]$  be its duality pairing which is a bi-linear maps from $W\times W'$ to real number. Suppose there exist an nonempty set \\( X \\) and a corresponding feature mappings $\Phi : X \rightarrow W',$.  We can  construct a Reproducing Kernel Banach Space as 
+ \\[B := \left\{ f_v(x) :=[\phi(x),v] : v \in W, x \in X \right\} \\]
+ 
 with norm$\|f_v\|_{B} := \inf\{\|v\|_{W}: v\in W\ \text{ with }\ f=[ \Phi(\cdot), v ]_{W}\}.$
 {{< /admonition >}}
 
