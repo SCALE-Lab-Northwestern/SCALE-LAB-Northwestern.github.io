@@ -19,7 +19,7 @@ This article introduces Reproducing Kernel Hilbert Space and Reproducing Kernel 
 ## Reproducing Kernel Banach Space
 
 {{< admonition note "Definition" >}}
-:(far fa-bookmark fa-fw): A reproducing kernel Banach space \\( B \\) on a prescribed nonempty set \\( X \\) is a Banach space of certain functions on \\( X \\) such that every point evaluation functional \\( \delta_x \\), \\( x \in X \\) on \\( B \\) is continuous, that is, there exists a positive constant \\( C_x \\) such that
+:(far fa-bookmark fa-fw): A reproducing kernel Banach space \\( \mathcal{B} \\) on a prescribed nonempty set \\( X \\) is a Banach space of certain functions on \\( X \\) such that every point evaluation functional \\( \delta_x \\), \\( x \in X \\) on \\( B \\) is continuous, that is, there exists a positive constant \\( C_x \\) such that
 \\[ \left| \delta_x(f) \right| = \left| f(x) \right| \leq C_x \| f \|_B \text{ for all } f \in B. \\]
 {{< /admonition >}}
 
