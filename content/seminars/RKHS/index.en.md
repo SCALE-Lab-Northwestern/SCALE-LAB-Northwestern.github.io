@@ -60,6 +60,8 @@ with norm \\(\|{f_v}\|_B := \text{inf} \\{\|v\|_W: v\in W\ \text{ with }\ f=[ \P
 
 ## Reproducing Kernel Hilbert Space
 
+If a reproducing kernel Hilbert space is a Hilbert space (we have inner product structure), we call it a reproducing kernel Hilbert space.
+- \\(\left<f,K(x,\cdot)\right>=f(x)\\)
 
 ### Eigendecay and effective rank
 
