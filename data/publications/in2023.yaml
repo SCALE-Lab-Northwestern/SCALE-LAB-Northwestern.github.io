@@ -41,11 +41,11 @@
   highlight: Contributed Talk at  ICLR 2020 Workshop on Integration of Deep Neural Models and Differential Equations.
   authors: Yiping Lu, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying
   publication: Thirty-seventh International Conference on Machine Learning (ICML), 2020
-  link: https://arxiv.org/pdf/1906.02762
+  link: https://proceedings.mlr.press/v119/lu20b.html
 
 - title: "Understanding and Improving Transformer From a Multi-Particle Dynamic System Point of View"
   authors: Yiping Lu *, Zhuohan Li*, Di He, Zhiqing Sun, Bin Dong, Tao Qin, Liwei Wang, Tie-yan Liu 
-  link: https://arxiv.org/abs/2003.05508
+  link: https://arxiv.org/pdf/1906.02762
   
 
 - title: "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle"
