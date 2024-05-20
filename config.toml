@@ -60,10 +60,10 @@ theme = 'LoveIt'
         title = ""
         weight = 6
       [[languages.en.menu.main]]
-        identifier = "teaching"
+        identifier = "courses"
         pre = ""
         post = ""
-        name = "Teaching"
+        name = "Courses"
         url = "/teaching/"
         title = ""
         weight = 7
