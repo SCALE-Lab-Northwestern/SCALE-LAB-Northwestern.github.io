@@ -40,4 +40,5 @@ Physics-Informed Machine Learning (PIML) aims to solve equation \\(\mathcal{A}u=
 We also considered the following two estimators
 - **Regularized Least Square** \\(\min_u ||\mathcal{A}(u)-f||^2\\)\\(+(||f||_\beta)^2\\)
 - **Minimum Norm Interpolation**  \\(\min_u || f||_\beta\\) subject to \\((\mathcal{A}u)(x_i)=f(x_i)\\)
+  
 Here \\(||\cdot||_\beta\\) is the Sobolev norm.
