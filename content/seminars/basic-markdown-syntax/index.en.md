@@ -2,7 +2,7 @@
 weight: 4
 title: "Basic Markdown Syntax"
 date: 2022-04-20T09:40:28+08:00
-draft: false
+draft: ture
 author: "Hao Wang"
 description: "This article shows the basic Markdown syntax and format."
 resources:
