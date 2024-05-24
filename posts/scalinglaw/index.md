@@ -8,3 +8,7 @@ The term “scaling laws” in deep learning refers to relations between functio
 
 ![Research](./sclaing.png)
 
+## Statistical Model For Physics Informed Machine Learning
+
+Physics-Informed Machine Learning (PIML) aims to solve equation \\(\mathcal{A}u=f\\) using observations of function \\(f\\).
+
