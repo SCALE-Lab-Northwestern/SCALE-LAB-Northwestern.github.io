@@ -1,7 +1,9 @@
 - title: "a paper on kernel solver for inverse problem"
   authors:  Honam Wong, Wendao Wu, Fanghui Liu and Yiping Lu
   publication: submitted.
+  link: https://2prime.github.io/files/Interpolation_kernel_using_operator_preprint.pdf
 
 - title: "a paper on reproducing kernel banach space"
   authors:  Yiping Lu, Daozhe Lin and Qiang Du
   publication: submitted.
+  link: https://2prime.github.io/files/EmbeddingRKBS_preprint.pdf
