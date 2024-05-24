@@ -29,4 +29,14 @@ The term “scaling laws” in deep learning refers to relations between functio
 
 ## Statistical Model For Physics Informed Machine Learning
 
+### Physics-Informed Machine Learning
 Physics-Informed Machine Learning (PIML) aims to solve equation \\(\mathcal{A}u=f\\) using observations of function \\(f\\).
+
+### Operator Learning
+
+
+## Inductive Bias
+
+We also considered the following two estimators
+- **Regularized Least Square** \\(\text{argmin}_u \|\mathcal{A}(u)-f\|^2+\|f\|_\beta^2\\)
+- **Minimum Norm Interpolation**  \\(\text{argmin}_u \| \|f\|_\beta^2\\) subject to \\((\mathcal{A}u)(x_i)=f(x_i)\\)
