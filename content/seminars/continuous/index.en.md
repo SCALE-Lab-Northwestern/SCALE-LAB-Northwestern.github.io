@@ -9,7 +9,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Statistics", "Kernel"]
+tags: ["Statistics", "Dynamic System"]
 
 lightgallery: true
 ---
