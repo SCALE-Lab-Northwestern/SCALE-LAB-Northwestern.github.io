@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 5
 title: "Well-Posed Machine Learning Model via Continuous Time Limit"
 date: 2024-05-02T09:40:28+08:00
 draft: false
