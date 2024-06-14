@@ -1,7 +1,7 @@
-- title: "a paper on kernel solver for inverse problem"
+- title: "Bengin overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias"
   authors:  Honam Wong, Wendao Wu, Fanghui Liu and Yiping Lu
   publication: submitted.
-  link: https://2prime.github.io/files/Interpolation_kernel_using_operator_preprint.pdf
+  link: https://arxiv.org/abs/2406.09194
 
 - title: "a paper on reproducing kernel banach space"
   authors:  Yiping Lu, Daozhe Lin and Qiang Du
