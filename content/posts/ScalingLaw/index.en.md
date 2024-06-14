@@ -17,7 +17,7 @@ SCALE lab is always actively building scaling law for scientific machine learnin
 - *Yiping Lu, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet* **Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality**, *Tenth International Conference on Learning Representations(ICLR) 2022*
 - *Yiping Lu, Jose Blanchet,Lexing Ying* **Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent**, *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS) 2022*
 - *Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying*  **Minimax Optimal Kernel Operator Learning via Multilevel Training**, *Eleventh International Conference on Learning Representations(ICLR) 2023*
-- *Honam Wong, Wendao Wu, Fanghui Liu, Yiping Lu*  	**Bengining overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Iductive Bias**, *Submitted*
+- *Honam Wong, Wendao Wu, Fanghui Liu, Yiping Lu*  	**Bengin overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias**, *Submitted*
 
 {{< /admonition >}}
 
