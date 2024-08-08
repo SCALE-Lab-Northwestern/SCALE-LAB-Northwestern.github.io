@@ -7,10 +7,6 @@
   cv: https://2prime.github.io/
 
 
-- name: Chenguang Duan
-  interests: non-parametric statistics, stochastic control (WHU)
-  position: Member
-  cv: https://scholar.google.com/citations?hl=zh-CN&user=RpmGgyMAAAAJ
 
 
 - name: Wenlong Ji
@@ -42,10 +38,6 @@
   achieve: First Author paper in ICML 2024
   achievelink: https://arxiv.org/abs/2404.19145
 
-
-- name: Siyuan Tang (2025) 
-  interests: Direct Preference Optimization (co-supervised with Minshuo Chen) (USTC)
-  position: Master
 
 - name: Honam Wong (2025) 
   interests: Machine Learning Theory (HKUST)
