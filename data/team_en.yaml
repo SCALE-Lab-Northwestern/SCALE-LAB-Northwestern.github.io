@@ -41,14 +41,15 @@
 
 - name: Honam Wong (2025) 
   interests: Machine Learning Theory (HKUST)
-  achieve: First Author paper submitted to Neurips 2024
+  achieve: First Author paper submitted to ICML 2025
   cv: https://matheart.github.io/
   position: Master
 
 
 - name: Ruihan Xu (2025) 
   interests: Machine Learning Theory, Applied Math (SJTU)
-  achieve: First Author paper submitted to AISTATS 2025
+  achieve: First Author paper accepted at AISTATS 2025, submitted to ICML 2025
+  achievelink: https://arxiv.org/abs/2410.11115
   position: Master
 
 
