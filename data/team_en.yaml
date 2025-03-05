@@ -54,15 +54,19 @@
 
 
 
-- name: Wendao Wu (2026)
-  interests: Machine Learning Theory, Applied Math (PKU)
-  achieve: Second Author paper submitted to Neurips 2024
-  position: Master
+#- name: Wendao Wu (2026)
+#  interests: Machine Learning Theory, Applied Math (PKU)
+#  achieve: Second Author paper submitted to Neurips 2024
+#  position: Master
 
+- name: Bill Zhu (2026)
+  interests: Machine Learning Theory(Northwestern University)
+  position: Master
+  achieve: 
 
 
 - name: Zexi Fan (2026)
   interests: Scientific Machine Learning, Stochasatic Control (PKU)
   position: Master
-  achieve: First Author in preparation
+  achieve: First Author submitted
 
