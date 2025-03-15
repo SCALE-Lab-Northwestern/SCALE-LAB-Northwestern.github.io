@@ -32,15 +32,16 @@
 
 
 - name: Kaizhao Liu (2025)
-  interests: Machine Learning Theory (PKU)
-  position: Master
+  interests: MIT Math Ph.D
+  position: Alumni
   cv: https://drzfct.github.io/
   achieve: First Author paper in ICML 2024
   achievelink: https://arxiv.org/abs/2404.19145
 
 
 - name: Honam Wong (2025) 
-  interests: Machine Learning Theory (HKUST)
+  interests: Stanford Computer Science Master
+  position: Alumni
   achieve: First Author paper submitted to ICML 2025
   cv: https://matheart.github.io/
   position: Master
