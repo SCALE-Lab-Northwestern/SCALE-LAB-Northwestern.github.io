@@ -29,5 +29,5 @@ Required graduate course on mathematical foundations of data science.
 Advanced graduate course on Gaussian Process, optimal transport, sampling, continuous time markov chain, Kalman Filter. 
 
 <div style="text-align: right;">
-<a href="https://2prime.github.io/teaching/2025-Statistical-Learning">Read more <i class="fas fa-angle-double-right fa-fw"></i></a>
+<a href="https://2prime.github.io/teaching/2026-UQ">Read more <i class="fas fa-angle-double-right fa-fw"></i></a>
 </div>
