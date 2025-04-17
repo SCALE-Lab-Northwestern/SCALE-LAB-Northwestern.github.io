@@ -12,3 +12,8 @@
   authors:  Ruihan Xu and Yiping Lu
   publication: submitted.
   link: https://arxiv.org/abs/2502.07993
+
+- title: "Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning"
+  authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
+  publication: submitted.
+  link: https://2prime.github.io/files/scasml_techreport.pdf
