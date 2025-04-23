@@ -17,3 +17,12 @@
   authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
   publication: submitted.
   link: https://2prime.github.io/files/scasml_techreport.pdf
+
+
+- title: "RAGEN: Training Agents by Reinforcing Reasoning"
+  authors: Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Kefan Yu, Minh Nhat
+Nguyen, Licheng Liu, Eli Gottlieb, Monica Lam, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang,
+Yejin Choi, Manling Li
+  publication: submitted.
+  link: https://github.com/RAGEN-AI/RAGEN/blob/main/RAGEN.pdf
+
