@@ -16,11 +16,11 @@
 - title: "Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning"
   authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
   publication: submitted.
-  link: https://2prime.github.io/files/scasml_techreport.pdf
+  link: https://arxiv.org/abs/2504.16172
 
 
 - title: "RAGEN: Training Agents by Reinforcing Reasoning"
   authors: Zihan Wang, Kangrui Wang, Qineng Wang, Pingyue Zhang, Linjie Li, Zhengyuan Yang, Kefan Yu, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Monica Lam, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li
   publication: submitted.
-  link: https://github.com/RAGEN-AI/RAGEN/blob/main/RAGEN.pdf
+  link: https://ragen-ai.github.io/pdf/RAGEN.pdf
 
