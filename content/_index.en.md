@@ -55,7 +55,7 @@ Our team working on an interdisciplinary research approach across probability an
 </p>
 
 <p style="text-align:justify">
-We are at Northwestern Univesrity, which is one of the most prestigious private research universities in the US. Established in 1851 to serve the historic Northwest Territory, it is the oldest chartered university in Illinois. Northwestern ranked #9 in the all National Universities and ranked #24 globally by U.S. News & World Report. The IEMS department is ranked #6 among all industrial engineering programs by U.S. News & World Report.
+We are at Northwestern Univesrity, which is one of the most prestigious private research universities in the US. Established in 1851 to serve the historic Northwest Territory, it is the oldest chartered university in Illinois. Northwestern ranked #6 in the all National Universities and ranked #24 globally by U.S. News & World Report. The IEMS department is ranked #3 among all industrial engineering programs by U.S. News & World Report.
 </p>
 
 # News
