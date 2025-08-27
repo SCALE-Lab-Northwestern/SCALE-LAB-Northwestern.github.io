@@ -7,7 +7,15 @@
   cv: https://2prime.github.io/
 
 
+- name: Youheng Zhu
+  interests: Machine Learning Theory
+  position: Ph.D.
+  cv: https://zhuyouheng.github.io/
 
+- name: Kailai Chen
+  interests: Machine Learning Theory, Large Language Model
+  position: Ph.D.
+  cv: https://openreview.net/profile?id=%7EKailai_Chen1
 
 - name: Wenlong Ji
   interests: Stanford Statistics Ph.D
@@ -63,6 +71,11 @@
   interests: Machine Learning Theory(Northwestern University)
   position: Master
   achieve: 
+
+- name: Weizhong Wang (2026)
+  interests: Machine Learning Theory(Fudan University)
+  position: Master
+  achieve: a paper on Manifold learning, a paper on Filtering
 
 
 - name: Zexi Fan (2026)
