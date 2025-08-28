@@ -1,3 +1,14 @@
+- title: "Bengin overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias"
+  authors:  Honam Wong, Wendao Wu, Fanghui Liu and Yiping Lu
+  publication: submitted.
+  link: https://arxiv.org/abs/2406.09194
+
+- title: "Which Spaces can be Embedded in Lp-type Reproducing Kernel Banach Space? A Characterization via Metric Entropy"
+  authors:  Yiping Lu, Daozhe Lin and Qiang Du
+  publication: submitted.
+  link: https://arxiv.org/abs/2410.11116
+
+
 - title: "Orthogonal Bootstrap: Efficient Simulation of Input Uncertainty"
   authors: Kaizhao Liu, Jose Blanchet, Lexing Ying and Yiping Lu
   publication: The Forty-first International Conference on Machine Learning (ICML 2024).
@@ -20,3 +31,5 @@
   authors: Yinuo Ren, Yiping Lu, Lexing Ying and Grant Rotskoff
   publication: The 38th Annual AAAI Conference on Artificial Intelligence, 2024
   link: https://arxiv.org/abs/2312.05793
+
+
