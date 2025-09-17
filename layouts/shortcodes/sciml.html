@@ -86,13 +86,13 @@ The main purpose of this seminar is to build a community of SciML researchers at
             </tr>
           <tr>
           {{ range .Site.Data.seminar.in2025 }}
-            <td>{{ .authors}}</td><td>title</td>
+            <td>{{ .authors}}</td><td>{{ .title}}</td>
             <tr>
-                <td colspan="2">{{ .abstract}}</td>
+                <td colspan="2" style="text-align: left;">{{ .abstract}}</td>
             </tr>
           {{ if .reference }}
           <tr>
-                <td colspan="2" class="highlight">{{ .reference}}</td>
+                <td colspan="2" class="highlight" style="text-align: left;">{{ .reference}}</td>
             </tr>
           {{ end }}
           {{ end }}
