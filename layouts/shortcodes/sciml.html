@@ -166,6 +166,15 @@
             box-shadow: 0 6px 20px rgba(104, 76, 150, 0.3);
             border-left: 6px solid #5a4080;
         }
+        .h3-brand-style {
+    color: #2c3e50;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin: 25px 0 15px 0;
+    padding-bottom: 12px;
+    position: relative;
+    display: inline-block;
+}
         .h3-brand-style::after {
     content: '';
     position: absolute;
@@ -176,12 +185,32 @@
     background: linear-gradient(90deg, #684c96, #8b6bb1);
     border-radius: 2px;
 }
+        .h1-minimal {
+            font-size: 2.8rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin: 50px 0;
+            text-align: left;
+            position: relative;
+            padding-left: 30px;
+        }
+
+        .h1-minimal::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 8px;
+            height: 100%;
+            background: linear-gradient(180deg, #684c96, #8b6bb1);
+            border-radius: 4px;
+        }
     </style>
 
 
 
 <div>
-<h1 id="director">Scientific Machine Learning Seminar</h2>
+<h1 id="director" class="h1-minimal">Scientific Machine Learning Seminar</h2>
 
 The main purpose of this seminar is to build a community of SciML researchers at Northwestern University and provide a venue where students can share their work and informal ideas. We hope the short and fun talks will spark new discussions, encourage collaboration, and create opportunities for feedback. Beyond presenting, the seminar also serves as a space to learn new approaches, exchange insights, and discover ongoing projects, helping everyone broaden their perspectives in scientific machine learning.
 
