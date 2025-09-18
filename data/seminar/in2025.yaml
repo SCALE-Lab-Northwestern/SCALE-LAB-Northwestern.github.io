@@ -12,7 +12,19 @@
   authors: Yiping Lu
   cv: https://2prime.github.io/
   abstract: "Optimization lies at the heart of modern machine learning and numerical computation. In this seminar, we provide a comprehensive overview of recent developments in optimization algorithms. We begin with classical and quasi-Newton methods, including BFGS, L-BFGS, and K-FAC, highlighting their efficiency in approximating second-order information. Next, we explore adaptive algorithms inspired by Adagrad, such as Adam, Shampoo, and SOAP, which leverage per-parameter scaling to accelerate convergence. Finally, we discuss geometry-aware methods, including SignGD and MUON, which exploit alternative geometrical structures to improve optimization performance. The seminar aims to give participants both a conceptual understanding and practical insights into these cutting-edge algorithms, bridging theoretical ideas with real-world applications."
-  reference: 
+  reference:
+  - text: SOAP for PINN
+    url: https://arxiv.org/html/2502.00604v1 
+  - text: MUON
+    url: https://kellerjordan.github.io/posts/muon/
+  - text: Kron
+    url:  https://arxiv.org/pdf/1512.04202 
+  - text: noisy natural gradient as variational inference
+    url: https://arxiv.org/abs/1712.02390
+  - text: Benchmarking Paper 1
+    url: https://arxiv.org/abs/2509.02046
+  - text: Benchmarking Paper 2
+    url: https://arxiv.org/abs/2509.01440 
   date: "TBD"
 
 - title: "Scaling Scientific Machine Learning: Integrating Theory and Numerics in Both Training and Inference"
@@ -20,6 +32,10 @@
   cv: https://2prime.github.io/
   abstract:  "Scaling scientific machine learning (SciML) requires overcoming bottlenecks at both training and inference. On the training side, we study the statistical convergence rate and limits of deep learning for solving elliptic PDEs from random samples. While our theory predicts optimal polynomial convergence for PINNs, optimization becomes prohibitively ill-conditioned as networks widen. By adapting descent strategies to the optimization geometry, we obtain scale-invariant training dynamics that translate polynomial convergence into concrete compute and yield compute-optimal configurations. On the inference side, I will introduce Simulation-Calibrated SciML (SCaSML), a physics-informed post-processing framework that improves surrogate models without retraining or fine-tuning. By enforcing physical laws, SCaSML delivers trustworthy corrections (via Feynman-Kac simulation) with approximate confidence intervals, achieves faster and near-optimal convergence rates, and supports online updates for digital twins. Together, these results integrate theory and numerics to enable predictable, reliable scaling of SciML in both training and inference. This is based on joint work with Lexing Ying, Jose Blanchet, Haoxuan Chen, Zexi Fan, Youheng Zhu, Shihao Yang, Jasen Lai, Sifan Wang, and Chunmei Wang."
   reference: 
+    - text: Neural Scaling Law
+      url: https://arxiv.org/abs/2102.06701
+    - text: chinchilla scaling laws
+      url: https://arxiv.org/abs/2203.15556
     - text: Inference Time Scaling
       url: https://arxiv.org/abs/2504.16172
   date: "TBD"
