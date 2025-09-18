@@ -37,5 +37,7 @@
     - text: chinchilla scaling laws
       url: https://arxiv.org/abs/2203.15556
     - text: Inference Time Scaling
+      url: https://arxiv.org/abs/2408.00724
+    - text: Inference Time Scaling for PDE
       url: https://arxiv.org/abs/2504.16172
   date: "TBD"
