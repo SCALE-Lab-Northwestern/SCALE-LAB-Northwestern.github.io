@@ -29,11 +29,10 @@
         }
 
         .topics-grid {
-            padding: 10px 10px;
+            padding: 20px 20px;
             display: grid;
             grid-template-columns: repeat(3, 1fr);
-            <!--grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));-->
-            gap: 25px;
+            gap: 15px;
         }
 
         .topic-card {
@@ -77,8 +76,14 @@
             align-items: center;
             justify-content: center;
             margin-bottom: 20px;
-            color: white;
-            font-size: 1.5rem;
+            overflow: hidden;
+        }
+
+        .topic-icon img {
+            width: 30px;
+            height: 30px;
+            object-fit: cover;
+            filter: brightness(0) invert(1);
         }
 
         .topic-title {
@@ -141,49 +146,11 @@
                 padding: 30px 20px;
             }
         }
-        
-        
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        
-        th, td {
-            border: 1px solid #ccc;
-            padding: 12px;
-            text-align: center;
-        }
-        
-        th {
-            background-color: #333;
-            color: white;
-            font-weight: bold;
-        }
-        
-        td {
-            background-color: #f9f9f9;
-        }
-        
-        .highlight {
-            background-color: #e0e0e0 !important;
-            font-weight: bold;
-            color: #333;
-        }
-        
-        .info {
-            background-color: #f5f5f5;
-            padding: 15px;
-            border-radius: 5px;
-            margin: 10px 0;
-            border-left: 4px solid #666;
-        }
-        
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 6px;
-            border-radius: 3px;
-            font-family: 'Courier New', monospace;
+
+        @media (max-width: 1024px) and (min-width: 769px) {
+            .topics-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
         }
     </style>
 
@@ -200,9 +167,11 @@ The main purpose of this seminar is to build a community of SciML researchers at
 In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific information about the format of each talk will be provided in the email announcement and posted below. If you're interested in attending the seminar, please contact Yiping Lu.
 
 
-        <div class="topics-grid">
+<div class="topics-grid">
             <div class="topic-card">
-                <div class="topic-icon">🚀</div>
+                <div class="topic-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2942/2942688.png" alt="Technology">
+                </div>
                 <div class="topic-title">Technology & Innovation</div>
                 <div class="topic-description">Exploring cutting-edge technologies, AI developments, and digital transformation that shape our future.</div>
                 <div class="interest-level">
@@ -218,7 +187,9 @@ In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific
             </div>
 
             <div class="topic-card">
-                <div class="topic-icon">🎨</div>
+                <div class="topic-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" alt="Design">
+                </div>
                 <div class="topic-title">Creative Arts & Design</div>
                 <div class="topic-description">Visual arts, graphic design, UI/UX, and creative expression that combines aesthetics with functionality.</div>
                 <div class="interest-level">
@@ -234,7 +205,9 @@ In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific
             </div>
 
             <div class="topic-card">
-                <div class="topic-icon">🌱</div>
+                <div class="topic-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/628/628283.png" alt="Environment">
+                </div>
                 <div class="topic-title">Sustainability & Environment</div>
                 <div class="topic-description">Green technologies, environmental conservation, and sustainable living practices for a better planet.</div>
                 <div class="interest-level">
@@ -250,7 +223,9 @@ In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific
             </div>
 
             <div class="topic-card">
-                <div class="topic-icon">📚</div>
+                <div class="topic-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/3002/3002543.png" alt="Education">
+                </div>
                 <div class="topic-title">Learning & Education</div>
                 <div class="topic-description">Educational methodologies, online learning platforms, and innovative approaches to knowledge sharing.</div>
                 <div class="interest-level">
@@ -266,7 +241,9 @@ In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific
             </div>
 
             <div class="topic-card">
-                <div class="topic-icon">🏃‍♂️</div>
+                <div class="topic-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/2966/2966327.png" alt="Health">
+                </div>
                 <div class="topic-title">Health & Wellness</div>
                 <div class="topic-description">Physical fitness, mental health, nutrition science, and holistic approaches to wellbeing.</div>
                 <div class="interest-level">
@@ -282,7 +259,9 @@ In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific
             </div>
 
             <div class="topic-card">
-                <div class="topic-icon">🌍</div>
+                <div class="topic-icon">
+                    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Travel">
+                </div>
                 <div class="topic-title">Travel & Culture</div>
                 <div class="topic-description">Cultural exploration, travel experiences, and understanding diverse perspectives from around the world.</div>
                 <div class="interest-level">
@@ -297,6 +276,7 @@ In Fall 2025, the Scientific Machine Learning seminar will be held TBD. Specific
                 </div>
             </div>
         </div>
+        
 
 <div class="container">
         <div class="info">
