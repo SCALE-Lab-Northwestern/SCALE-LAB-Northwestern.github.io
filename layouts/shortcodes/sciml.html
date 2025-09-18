@@ -420,6 +420,9 @@ The main purpose of this seminar is to build a community of SciML researchers at
             </tr>
           <tr>
           {{ range .Site.Data.seminar.in2025 }}
+           <tr>
+                <th colspan="2" style="background-color: #222; color: white;">Date: {{.date}}</th>
+            </tr>
             {{ if .cv }}
                 <td> <a href="{{ .cv }}">{{.authors}} </a></td>
             {{ else }}
@@ -430,7 +433,7 @@ The main purpose of this seminar is to build a community of SciML researchers at
             </tr>
           {{ if .reference }}
           <tr>
-                <td colspan="2" class="highlight" style="text-align: left;"><strong>Reference:</strong>{{ .reference}}</td>
+                <td colspan="2" class="highlight" style="text-align: left;"><strong>Reference: </strong>{{ .reference}}</td>
             </tr>
           {{ end }}
           {{ end }}
