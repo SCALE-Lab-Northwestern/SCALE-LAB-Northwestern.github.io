@@ -1,12 +1,13 @@
 - title: "Probabilistic Foundations of Diffusion Models and Monte Carlo PDE Solvers: From Particle Systems to Macroscopic Dynamics"
-  authors: "10/3/2025"
+  authors: Yiping Lu
+  cv: https://2prime.github.io/
   abstract: "We study large systems of interacting stochastic particles undergoing motion, birth, and death, and explore the probabilistic mechanisms connecting microscopic randomness to macroscopic deterministic behavior. Each particle follows a stochastic differential equation with position-dependent drift and diffusion and experiences independent birth-death events modeled by exponential clocks. The state of the system is described through its empirical measure, for which we establish a martingale decomposition of test function observables. As the number of particles tends to infinity, the empirical measure converges in probability to a deterministic limit, recovering classical advection-diffusion-reaction PDEs as a law of large numbers. This probabilistic framework forms the basic foundation for modern diffusion models and Monte Carlo PDE solvers. We further illustrate how forward and backward stochastic differential equations can be interpreted to simulate, denoise, and reconstruct distributions, and discuss Feynman–Kac representations and particle methods, emphasizing their convergence and stochastic underpinnings."
   reference: 
    - text: lecture note 
      url: https://www.overleaf.com/read/hhqjcmfffvnt#4154a4
    - text: diffusion model paper
      url: https://arxiv.org/abs/2011.13456
-  date: "TBD"
+  date: "10/3/2025"
 
 - title: "Recent Advances in Optimization: From Quasi-Newton to Geometry-Aware Algorithms"
   authors: Yiping Lu
