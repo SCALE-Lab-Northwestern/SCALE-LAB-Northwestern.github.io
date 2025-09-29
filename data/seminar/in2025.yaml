@@ -28,6 +28,19 @@
     url: https://arxiv.org/abs/2509.01440 
   date: "TBD"
 
+
+- title: "Discrete Diffusion Model"
+  authors: Jinhua Lyu
+  abstract: " "
+  date: "TBD"
+  
+- title: "Preodictin Powered Inference"
+  authors: TBS
+  abstract: " "
+  date: "TBD"
+  
+
+  
 #- title: "Scaling Scientific Machine Learning: Integrating Theory and Numerics in Both Training and Inference"
 #  authors:  Yiping Lu
 #  cv: https://2prime.github.io/
