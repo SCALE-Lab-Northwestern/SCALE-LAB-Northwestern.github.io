@@ -5,6 +5,8 @@
   reference: 
    - text: lecture note 
      url: https://www.overleaf.com/read/hhqjcmfffvnt#4154a4
+   - text: note
+     url: https://drive.google.com/file/d/1pf4QYqf3r4QxEku5w1KdH2XBeGC0pz7M/view?usp=sharing
    - text: diffusion model paper
      url: https://arxiv.org/abs/2011.13456
   date: "10/3/2025"
