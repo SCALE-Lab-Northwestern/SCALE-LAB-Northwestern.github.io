@@ -9,7 +9,7 @@
      url: https://drive.google.com/file/d/1pf4QYqf3r4QxEku5w1KdH2XBeGC0pz7M/view?usp=sharing
    - text: diffusion model paper
      url: https://arxiv.org/abs/2011.13456
-  date: "10/3/2025"
+  date: "10/3/2025,10/17/2025"
 
 - title: "Mordern Optimizers For LLMs"
   authors: Yiping Lu
@@ -38,7 +38,7 @@
     url: https://arxiv.org/abs/2509.02046
   - text: Benchmarking Paper 2
     url: https://arxiv.org/abs/2509.01440 
-  date: "TBD"
+  date: "11/14/2025"
 
 
 - title: "Discrete Diffusion Model"
