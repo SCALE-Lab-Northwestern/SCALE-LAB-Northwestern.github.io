@@ -16,27 +16,27 @@
   cv: https://2prime.github.io/
   abstract: "Optimization lies at the heart of modern machine learning and numerical computation. In this seminar, we provide a comprehensive overview of recent developments in optimization algorithms. We begin with classical and quasi-Newton methods, including BFGS, L-BFGS, and K-FAC, highlighting their efficiency in approximating second-order information. Next, we explore adaptive algorithms inspired by Adagrad, such as Adam, Shampoo, and SOAP, which leverage per-parameter scaling to accelerate convergence. Finally, we discuss geometry-aware methods, including SignGD and MUON, which exploit alternative geometrical structures to improve optimization performance. The seminar aims to give participants both a conceptual understanding and practical insights into these cutting-edge algorithms, bridging theoretical ideas with real-world applications."
   reference:
- - text: Steepest Descent
+   - text: Steepest Descent
     url: https://arxiv.org/abs/2409.20325
-  - text: MUON
+   - text: MUON
     url: https://kellerjordan.github.io/posts/muon/
-  - text: Kron
+   - text: Kron
     url:  https://arxiv.org/pdf/1512.04202 
-  - text: noisy natural gradient as variational inference
+   - text: noisy natural gradient as variational inference
     url: https://arxiv.org/abs/1712.02390
-  - text: KL-SOAP
+   - text: KL-SOAP
     url: https://arxiv.org/abs/2509.03378
-  - text: SOAP for PINN
+   - text: SOAP for PINN
     url: https://arxiv.org/html/2502.00604v1 
-  - text: SOAP 
+   - text: SOAP 
      url: https://arxiv.org/abs/2409.11321
-  - text: K-FAC
+   - text: K-FAC
      url: https://arxiv.org/abs/1503.05671
-  - text: muP scaling
+   - text: muP scaling
      url: https://arxiv.org/abs/2203.03466
-  - text: Benchmarking Paper 1
+   - text: Benchmarking Paper 1
     url: https://arxiv.org/abs/2509.02046
-  - text: Benchmarking Paper 2
+   - text: Benchmarking Paper 2
     url: https://arxiv.org/abs/2509.01440 
   date: "11/14/2025"
 
