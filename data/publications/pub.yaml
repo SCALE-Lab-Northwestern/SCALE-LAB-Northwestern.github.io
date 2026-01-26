@@ -1,3 +1,8 @@
+- title: "Physics-Informed Inference Time Scaling for Solving High-Dimensional PDE via Defect Correction"
+  authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
+  publication: The Fourteenth International Conference on Learning Representations (ICLR 2026).
+  link: https://arxiv.org/abs/2504.16172
+
 - title: "A Covering Framework for Offline POMDPs Learning using Belief Space Metric"
   authors: Youheng Zhu, Yiping Lu
   publication:  The 29th International Conference on Artificial Intelligence and Statistics (AISTATS 2026)
@@ -16,11 +21,6 @@
   authors:  Ruihan Xu and Yiping Lu
   publication: submitted.
   link: https://arxiv.org/abs/2502.07993
-
-- title: "Physics-Informed Inference Time Scaling via Simulation-Calibrated Scientific Machine Learning"
-  authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
-  publication: submitted.
-  link: https://arxiv.org/abs/2504.16172
 
 
 - title: "RAGEN: Training Agents by Reinforcing Reasoning"
