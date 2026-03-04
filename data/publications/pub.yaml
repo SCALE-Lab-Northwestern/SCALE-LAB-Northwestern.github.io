@@ -1,3 +1,8 @@
+- title: "On the Power of (Approximate) Reward Models for Inference-Time Scaling"
+  authors: Youheng Zhu, Yiping Lu
+  publication:  Submitted
+  link: https://arxiv.org/abs/2602.01381
+  
 - title: "Physics-Informed Inference Time Scaling for Solving High-Dimensional PDE via Defect Correction"
   authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
   publication: The Fourteenth International Conference on Learning Representations (ICLR 2026).
