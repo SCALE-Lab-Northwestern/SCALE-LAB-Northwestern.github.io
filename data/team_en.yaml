@@ -8,14 +8,10 @@
 
 
 - name: Youheng Zhu
-  interests: Machine Learning Theory
+  interests: Machine Learning Theory, Sequential Monte Carlo, Inference Time Scaling
   position: Ph.D.
   cv: https://zhuyouheng.github.io/
 
-- name: Kailai Chen
-  interests: Machine Learning Theory, Large Language Model
-  position: Ph.D.
-  cv: https://openreview.net/profile?id=%7EKailai_Chen1
 
 - name: Wenlong Ji
   interests: Stanford Statistics Ph.D
