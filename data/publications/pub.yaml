@@ -3,6 +3,13 @@
   publication: Submitted
   link: https://arxiv.org/abs/2603.09952
 
+
+- title: "When PINNs Go Wrong: Pseudo-Time Stepping Against Spurious Solutions"
+  authors: Sifan Wang, Shawn Koohy, Yiping Lu, Paris Perdikaris
+  publication:  submitted
+  link: https://arxiv.org/abs/2604.23528
+
+
 - title: "Simple Unbiased Derivative Free Inference-Time Scaling for Diffusion Models via Sequential Monte Carlo on Path Measures"
   authors: Chenyang Wang, Weizhong Wang, Yinuo Ren, Jose Blanchet, Yiping Lu
   publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
@@ -43,7 +50,7 @@
 - title: "Reinforcing Visual State Reasoning for Multi-Turn VLM Agents"
   authors:  Kangrui Wang, Pingyue Zhang, Zihan Wang, Yaning Gao, Linjie Li, Qineng Wang, Hanyang Chen, Yiping Lu, Zhengyuan Yang, Lijuan Wang, Ranjay Krishna, Jiajun Wu, Li Fei-Fei, Yejin Choi, Manling Li
   publication: Thirty-nineth Conference on Neural Information Processing Systems (Neurips) 2025
-  link: 
+  link: https://arxiv.org/abs/2510.16907
 
 - title: "What is a Sketch-and-Precondition Derivation for Low-Rank Approximation? Inverse Power Error or Inverse Power Estimation?"
   authors:  Ruihan Xu and Yiping Lu
