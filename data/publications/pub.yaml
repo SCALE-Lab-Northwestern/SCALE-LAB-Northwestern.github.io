@@ -2,11 +2,28 @@
   authors: Ruihan Xu, Jiajin Li, Yiping Lu
   publication: Submitted
   link: https://arxiv.org/abs/2603.09952
- 
+
+- title: "Simple Unbiased Derivative Free Inference-Time Scaling for Diffusion Models via Sequential Monte Carlo on Path Measures"
+  authors: Chenyang Wang, Weizhong Wang, Yinuo Ren, Jose Blanchet, Yiping Lu
+  publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
+  link: https://openreview.net/forum?id=TWTZ2kmojU
+
 - title: "On the Power of (Approximate) Reward Models for Inference-Time Scaling"
   authors: Youheng Zhu, Yiping Lu
-  publication:  Submitted
+  publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
   link: https://arxiv.org/abs/2602.01381
+
+  
+- title: "SURGE:Unbiased Data Assimilation for Diffusion Model via Particle Filtering"
+  authors: Lifu Wei, Yinuo Ren, Naichen Shi, Yiping Lu
+  publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
+  link: https://openreview.net/forum?id=JRsJLPr85W
+
+- title: "Understanding Reasoning Collapse in LLM Agent Reinforcement Learning"
+  authors: Zihan Wang, Chi Gui, Xing Jin, Qineng Wang, Licheng Liu, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li
+  publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
+  link: https://openreview.net/forum?id=01caH9oj7C
+
   
 - title: "Physics-Informed Inference Time Scaling for Solving High-Dimensional PDE via Defect Correction"
   authors:  Zexi Fan, Yan Sun, Shihao Yang and Yiping Lu
