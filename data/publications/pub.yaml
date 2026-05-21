@@ -10,10 +10,10 @@
   link: https://arxiv.org/abs/2604.23528
 
 
-- title: "Simple Unbiased Derivative Free Inference-Time Scaling for Diffusion Models via Sequential Monte Carlo on Path Measures"
+- title: "Simple Approximation and Derivative Free Inference-Time Scaling for Diffusion Models via Sequential Monte Carlo on Path Measures"
   authors: Chenyang Wang, Weizhong Wang, Yinuo Ren, Jose Blanchet, Yiping Lu
   publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
-  link: https://openreview.net/forum?id=TWTZ2kmojU
+  link: https://arxiv.org/abs/2605.17850v1
 
 - title: "On the Power of (Approximate) Reward Models for Inference-Time Scaling"
   authors: Youheng Zhu, Yiping Lu
@@ -21,15 +21,15 @@
   link: https://arxiv.org/abs/2602.01381
 
   
-- title: "SURGE:Unbiased Data Assimilation for Diffusion Model via Particle Filtering"
+- title: "SURGE: Approximation-Free Data Assimilation for Diffusion Model via Particle Filtering"
   authors: Lifu Wei, Yinuo Ren, Naichen Shi, Yiping Lu
   publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
-  link: https://openreview.net/forum?id=JRsJLPr85W
+  link: https://arxiv.org/abs/2605.18745v1
 
-- title: "Understanding Reasoning Collapse in LLM Agent Reinforcement Learning"
+- title: "RAGEN-2: Reasoning Collapse in Agentic RL"
   authors: Zihan Wang, Chi Gui, Xing Jin, Qineng Wang, Licheng Liu, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li
   publication:  The Forty-third International Conference on Machine Learning (ICML 2026)
-  link: https://openreview.net/forum?id=01caH9oj7C
+  link: https://arxiv.org/abs/2604.06268
 
   
 - title: "Physics-Informed Inference Time Scaling for Solving High-Dimensional PDE via Defect Correction"
