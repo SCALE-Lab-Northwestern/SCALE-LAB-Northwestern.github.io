@@ -51,10 +51,11 @@
 
 
 - name: Ruihan Xu (2025) 
-  interests: Machine Learning Theory, Applied Math (SJTU)
-  achieve: First Author paper accepted at AISTATS 2025, submitted to Neurips 2025
+  interests: UChicago Data Science Ph.D
+  achieve: First Author paper accepted at AISTATS 2025, submitted to Neurips 2026
   achievelink: https://arxiv.org/abs/2410.11115
-  position: Master
+  position: Alumni
+  cv: https://ruihanxx.github.io/
 
 
 
@@ -68,15 +69,21 @@
   position: Master
   achieve: 
 
+
+- name: Chenyang Wang (2026)
+  interests: Northwestern University, IEMS Ph.D.
+  position: Alumni
+  achieve: First Author paper accepted at ICML 2026
+
 - name: Weizhong Wang (2026)
-  interests: Machine Learning Theory(Fudan University)
-  position: Master
+  interests: Columbia University, IEOR Ph.D.
+  position: Alumni
   achieve: Optimal Rate for eigenfunctions for elliptic systems 
 
 
 - name: Zexi Fan (2026)
-  interests: Scientific Machine Learning, Stochastic Control (PKU)
-  position: Master
+  interests: Columbia University, Applied Math Ph.D.
+  position: Alumni
   achieve: First Author paper submitted 
   achievelink: https://arxiv.org/abs/2504.16172
 
