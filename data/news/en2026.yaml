@@ -1,7 +1,7 @@
   - title: SCALE lab solved a 35 year open problem in heavy traffict limit with the help of AI!
     date: 2026-07
     icon: 🎉
-    detail: We solved the Singed BAR conjecture using AI via providing a counter example to the conjecture and provide a uniquness proof in the HR class.
+    detail: We solved the Singed BAR conjecture using AI via providing a counter example to the conjecture and provide a uniquness proof in the HR class. See our paper  <a href="https://arxiv.org/abs/2607.03639">here</a>
 
   - title: SSCALE Lab has 4 papers accepted at ICML 2026.
     date: 2026-06
