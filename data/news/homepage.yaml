@@ -1,5 +1,13 @@
 # 英文主页展示的新闻
 en:
+  - title: SCALE lab solved a 35 year open problem in heavy traffict limit with the help of AI!
+    date: 2026-07
+    icon: 🎉
+
+  - title: SCALE Lab has 4 papers accepted at ICML 2026.
+    date: 2026-06
+    icon: 🎉
+    
   - title: Yiping is going to give a tutorial at AAAI 2024 on Recent Advance in Physics-Informed Machine Learning!
     date: 2024-02
     icon: 🎉
